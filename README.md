@@ -113,14 +113,3 @@ You can customize the assistant behavior in `core/engine.py`:
 - **Temperature**: Adjust `temperature` (0.0 = deterministic, 1.0 = creative)
 - **System Prompt**: Modify `self.system_prompt` to change the assistant's persona or instructions
 
----
-
-## License
-
-MIT License — feel free to use, modify, and distribute.
-
----
-
-## Author
-
-Built by **Sarikondu Sreenadh** (Storm AI)
